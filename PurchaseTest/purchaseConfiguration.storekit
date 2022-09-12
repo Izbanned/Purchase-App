@@ -1,0 +1,38 @@
+{
+  "identifier" : "2A798D14",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "BC67D5DF",
+      "localizations" : [
+        {
+          "description" : "buy it!",
+          "displayName" : "Premium formulas",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Купи это!!",
+          "displayName" : "Премиум формулы",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.dias.PurchaseTest.premiumFormulas",
+      "referenceName" : "Premium Formulas",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
